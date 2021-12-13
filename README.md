@@ -18,3 +18,6 @@ Here are some ideas to get you started
 🌱 I’m currently learning Python <br/>
 📫 How to reach me: englebert.alexis@gmail.com <br/>
 ⚡ Fun fact: I play drums <br/>
+
+
+[![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexisloic21)](https://github.com/anuraghazra/github-readme-stats)
