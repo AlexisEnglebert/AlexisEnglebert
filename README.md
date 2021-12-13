@@ -3,7 +3,7 @@
 <!--
 **Alexisloic21/Alexisloic21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on [Armageddon 2.0](https://github.com/Alexisloic21/Armageddon-2.0) <br/>
+🌱 I’m currently learning Python <br/>
+📫 How to reach me: englebert.alexis@gmail.com <br/>
+⚡ Fun fact: I play drums <br/>
