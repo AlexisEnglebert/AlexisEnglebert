@@ -16,7 +16,7 @@ Here are some ideas to get you started
 -->
 🔭 I’m currently working on [Armageddon 2.0](https://github.com/Alexisloic21/Armageddon-2.0) <br/>
 🌱 I’m currently learning Python <br/>
-🤔 I have an interest in computer graphics <br/>
+🤔 I have an interest in computer graphics and reverse engineering <br/>
 📫 How to reach me: englebert.alexis@gmail.com <br/>
 ⚡ Fun fact: I play drums <br/>
 
